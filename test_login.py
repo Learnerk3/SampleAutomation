@@ -1,1 +1,1 @@
-Login test to verify user authorization
+Login test to verify authorization
